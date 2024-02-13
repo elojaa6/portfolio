@@ -107,6 +107,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.10.0"
+  overflow_text_animated:
+    dependency: "direct main"
+    description:
+      name: overflow_text_animated
+      sha256: "9ac5935eec58785f8d1ee29d82d73c9631c6b6c850fec1614a5ab29417d854ba"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.6"
   path:
     dependency: transitive
     description:
@@ -168,6 +176,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.1"
+  text_marquee:
+    dependency: "direct main"
+    description:
+      name: text_marquee
+      sha256: "56dfa74b847a6acbf033fcfca88a0dcbc68134d4154f1bc9e68f8f75e196dc25"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
   vector_math:
     dependency: transitive
     description:
@@ -186,3 +202,4 @@ packages:
     version: "0.3.0"
 sdks:
   dart: ">=3.2.6 <4.0.0"
+  flutter: ">=3.0.0"
