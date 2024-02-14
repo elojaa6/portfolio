@@ -13,7 +13,7 @@ class Info extends StatelessWidget {
             'Web Developer',
             style: TextStyle(
                 fontWeight: FontWeight.w800, height: 0.9, fontSize: 80),
-          )
+          ),
         ],
       ),
     );
